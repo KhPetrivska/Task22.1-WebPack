@@ -1,0 +1,13 @@
+table {
+    border: 1px solid gray;
+    font-size: 20px;
+}
+
+th {
+    background-color: lightskyblue;
+}
+
+th, td {
+    text-align: center;
+    padding: 6px;
+}
