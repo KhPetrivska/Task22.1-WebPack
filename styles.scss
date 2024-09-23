@@ -1,0 +1,18 @@
+$border-color: gray;
+$bg-color-header: pink ;
+$font-size: 20px;
+$padding: 6px;
+
+table {
+  border: 1px solid $border-color;
+  font-size: $font-size;
+
+  th {
+    background-color: $bg-color-header;
+  }
+
+  th, td {
+    text-align: center;
+    padding: $padding;
+  }
+}

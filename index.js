@@ -1,5 +1,5 @@
 "use strict";
-import "./styles.css";
+import "./styles.scss";
 
 const nums = [];
 for (let i = 1; i <= 10; i++) {
