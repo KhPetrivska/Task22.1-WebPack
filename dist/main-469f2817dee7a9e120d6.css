@@ -1,0 +1,17 @@
+/*!**************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./styles.css ***!
+  \**************************************************************/
+table {
+    border: 1px solid gray;
+    font-size: 20px;
+}
+
+th {
+    background-color: lightseagreen;
+}
+
+th, td {
+    text-align: center;
+    padding: 6px;
+}
+
